@@ -47,6 +47,6 @@ customer         | customer_id
 
 ### Решение 2
 
- [Таблица первичных ключей](file://key_list.xlsx)
+ Таблица первичных ключей - key_list.xlsx
 
 
