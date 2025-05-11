@@ -47,6 +47,6 @@ customer         | customer_id
 
 ### Решение 2
 
- Таблица первичных ключей - key_list.xlsx
+<img src = "img/Screenshot_2.png" width=100%>
 
 
